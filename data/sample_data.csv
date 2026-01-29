@@ -1,0 +1,4 @@
+temperature,vibration,pressure,rotational_speed,operating_hours,failure
+65,0.02,30,1500,1200,0
+80,0.09,45,1800,2400,1
+70,0.04,35,1600,1800,0
