@@ -1,4 +1,6 @@
-# Machine Failure Prediction Predict machine failures from time-series sensor data to reduce downtime and optimize maintenance. ## 🔍 Project Overview This project trains supervised machine learning models on historical sensor readings to forecast imminent equipment failures and estimate remaining useful life. It supports both classical and deep learning approaches, and includes a simple interface for serving predictions. 
+#Machine Failure Prediction Predict machine failures from time-series sensor data to reduce downtime and optimize maintenance. 
+#🔍 Project Overview This project trains supervised machine learning models on historical sensor readings to forecast imminent equipment failures and estimate remaining useful life.
+It supports both classical and deep learning approaches, and includes a simple interface for serving predictions. 
 ## 📁 Repository Structure
 ├── app.py                # Inference and serving interface
 ├── train.py              # Data preprocessing and model training
@@ -23,10 +25,10 @@ pip install -r requirements.txt
 ###2. Train the model
 python train.py
 
-###3. Run inference
+## 3. Run inference
 python app.py
 
-###4. Explore the data
+## 4. Explore the data
 Open data/sample_data.csv or sensor_data_large.csv using pandas or a spreadsheet viewer.
 
 🎯 Expected Outcome
