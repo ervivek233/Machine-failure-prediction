@@ -1,0 +1,4 @@
+theme: jekyll-theme-cayman
+title: Machine Failure Prediction
+description: Predictive maintenance using ML on sensor data
+show_downloads: true
